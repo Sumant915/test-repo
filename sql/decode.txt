@@ -1,0 +1,1 @@
+sql stands for structured query language . It is a declarative language used to create and manage relational database 
