@@ -1,0 +1,9 @@
+Data is a collection of facts, figures, or other pieces of information that 
+
+can be processed, analyzed, and interpreted to provide insights. It can be numerical 
+
+(quantitative) or descriptive (qualitative) and is used for reasoning, calculation, 
+
+and making decisions. In computing, it is often stored electronically in files or 
+
+databases, and is the fuel for things like artificial intelligence and machine learning.
